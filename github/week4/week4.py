@@ -32,3 +32,10 @@ while True:
     if letter == "done":
         break
 print(word)    '''
+
+#Q5
+sum = 0
+for i in range( 51, 517,2):
+    print(i)
+    sum += i  
+print(sum)   
